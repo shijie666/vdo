@@ -1,13 +1,13 @@
-package com.demo;
+package com.shijie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VdoRpcStartApplication {
+public class VdoNettyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(VdoRpcStartApplication.class, args);
+		SpringApplication.run(VdoNettyApplication.class, args);
 	}
 
 }

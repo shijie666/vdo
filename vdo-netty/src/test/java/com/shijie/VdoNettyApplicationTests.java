@@ -1,10 +1,10 @@
-package com.demo;
+package com.shijie;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VdoRpcStartApplicationTests {
+class VdoNettyApplicationTests {
 
 	@Test
 	void contextLoads() {
